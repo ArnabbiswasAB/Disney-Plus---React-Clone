@@ -16,12 +16,30 @@ function ImgSlider() {
 
 	return (
 		<Carousel {...settings}>
+			
 			<Warp>
-				<img src="/images/slider-badging.jpg" />
+				<img src="/images/slider-badag5.jpg" />
+			</Warp>
+			
+			<Warp>
+				<img src="/images/slider-badag7.jpg" />
+			</Warp>
+			
+			<Warp>
+				<img src="/images/slider-badag4.jpg" />
 			</Warp>
 			<Warp>
-				<img src="/images/slider-badag.jpg" />
+				<img src="/images/slider-badag8.jpg" />
 			</Warp>
+			<Warp>
+				<img src="/images/slider-badag2.jpg" />
+			</Warp>
+			<Warp>
+				<img src="/images/slider-badag3.jpg" />
+			</Warp>
+		
+			
+
 		</Carousel>
 	);
 }

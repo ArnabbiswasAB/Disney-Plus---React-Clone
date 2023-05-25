@@ -8,7 +8,13 @@ function Movies() {
 			<Content>
 				<Wrap>
 					<img
-						src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6EA416AD3B15FCC1BADC817A932A57FFF707556DB2233FFCB4CFEB7C8EEDE23C/scale?width=400&aspectRatio=1.78&format=jpeg"
+						src="https://static.mirchi.in/thumb/imgsize-111520,msid-93918758,width-400,height-225,resizemode-1,webp-1/93918758.jpg"
+						alt=""
+					/>
+				</Wrap>
+				<Wrap>
+					<img
+						src="https://static.toiimg.com/thumb/msid-99336524,imgsize-109164,width-400,height-225,resizemode-1/99336524.jpg"
 						alt=""
 					/>
 				</Wrap>
@@ -20,7 +26,13 @@ function Movies() {
 				</Wrap>
 				<Wrap>
 					<img
-						src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6EA416AD3B15FCC1BADC817A932A57FFF707556DB2233FFCB4CFEB7C8EEDE23C/scale?width=400&aspectRatio=1.78&format=jpeg"
+						src="https://mcdn.wallpapersafari.com/medium/50/69/9TwgDI.jpg"
+						alt=""
+					/>
+				</Wrap>
+				<Wrap>
+					<img
+						src="https://mcdn.wallpapersafari.com/medium/50/69/9TwgDI.jpg"
 						alt=""
 					/>
 				</Wrap>
@@ -32,25 +44,13 @@ function Movies() {
 				</Wrap>
 				<Wrap>
 					<img
-						src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6EA416AD3B15FCC1BADC817A932A57FFF707556DB2233FFCB4CFEB7C8EEDE23C/scale?width=400&aspectRatio=1.78&format=jpeg"
+						src="https://static.toiimg.com/thumb/msid-99336524,imgsize-109164,width-400,height-225,resizemode-1/99336524.jpg"
 						alt=""
 					/>
 				</Wrap>
 				<Wrap>
 					<img
-						src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6EA416AD3B15FCC1BADC817A932A57FFF707556DB2233FFCB4CFEB7C8EEDE23C/scale?width=400&aspectRatio=1.78&format=jpeg"
-						alt=""
-					/>
-				</Wrap>
-				<Wrap>
-					<img
-						src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6EA416AD3B15FCC1BADC817A932A57FFF707556DB2233FFCB4CFEB7C8EEDE23C/scale?width=400&aspectRatio=1.78&format=jpeg"
-						alt=""
-					/>
-				</Wrap>
-				<Wrap>
-					<img
-						src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6EA416AD3B15FCC1BADC817A932A57FFF707556DB2233FFCB4CFEB7C8EEDE23C/scale?width=400&aspectRatio=1.78&format=jpeg"
+						src="https://static.mirchi.in/thumb/imgsize-111520,msid-93918758,width-400,height-225,resizemode-1,webp-1/93918758.jpg"
 						alt=""
 					/>
 				</Wrap>
